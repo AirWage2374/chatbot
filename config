@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://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@github.com/AirWage2374/chatbot.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
